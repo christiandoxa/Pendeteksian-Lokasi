@@ -1,7 +1,14 @@
-# ShushMe
-Google Places API demo app
+# Media Playback
+### Deskripsi Project
+- Mengerjakan Udacity
 
-## Screenshots
+### Screenshot Aplikasi
+<img src="https://preview.ibb.co/mCMmJk/Screenshot_1505583119.png" width="30%"> <img src="https://preview.ibb.co/fy744Q/Screenshot_1505583115.png" width="30%"> <img src="https://preview.ibb.co/eUsRJk/Screenshot_1505583030.png" width="30%">
+<br>
 
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) ![Screenshot6](screenshots/screen_6.png)
+### Identitas
+- Nama  : Christian Doxa Hamasiah
+- Kelas : XII RPL III
+- Nomor : 08
+- NIS   : 4691/1410.070
+- Sekolah  : SMK Telkom Malang
